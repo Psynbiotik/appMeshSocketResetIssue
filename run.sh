@@ -1,0 +1,1 @@
+npm install && cd fargate && npm install && cd .. && cdk deploy
